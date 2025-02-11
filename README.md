@@ -29,4 +29,59 @@ This project is open-source and free to use for learning and reference purposes.
 
 ---
 
-If you find this project useful, don't forget to **star** this repository!
+Here's the updated README with fewer emojis:
+
+---
+
+# Data Visualization Internship – Forage x TATA  
+
+## Overview  
+This repository contains my project work for the **Forage - TATA Data Visualization Virtual Internship**. The project involved data cleaning and creating visualizations to provide insights for business decisions.  
+
+## Project Tasks  
+
+### 1. **Data Cleaning**  
+Before analysis, the dataset was cleaned by:  
+- Removing records where **quantity < 1** (returns were stored as negative values).  
+- Excluding records where **unit price < 0** (data entry errors).  
+- Using conditional formulas and data transformation techniques to filter out incorrect data.  
+
+### 2. **Visualizations Created**  
+The following visualizations were built in **Power BI**:  
+
+#### **Question 1: Revenue Time Series (2011)**  
+- A time series analysis of revenue for **each month in 2011**.  
+- Helps the CEO understand **seasonal trends** and make future forecasts.  
+
+#### **Question 2: Top 10 Revenue-Generating Countries (Excluding UK)**  
+- Displays the **top 10 countries** with the highest revenue.  
+- Also includes the **quantity sold** in each country.  
+- The **United Kingdom is excluded** as per the CMO's request.  
+
+#### **Question 3: Top 10 Customers by Revenue**  
+- A **descending revenue bar chart** showing the **highest-spending customers**.  
+- Helps the CMO **target high-value customers** to improve retention.  
+
+#### **Question 4: Demand Analysis by Country (Excluding UK)**  
+- A **global demand heatmap** showing product demand across regions.  
+- Helps the CEO identify **expansion opportunities** in high-demand countries.  
+
+## Files Included  
+- **Online Retail Data Set.xlsx** – Raw dataset before cleaning.  
+- **Forage Internship.pbix** – Power BI report with all visualizations.  
+
+## Tools Used  
+- **Power BI** for data visualization.  
+- **Excel** for data cleaning and preprocessing.  
+
+## How to Use  
+1. Download the **Forage Internship.pbix** file.  
+2. Open it in **Power BI**.  
+3. Navigate through the tabs to view each visualization.  
+
+## References  
+- Forage - TATA Virtual Internship  
+- Power BI and data transformation techniques  
+
+---
+If you find these projects useful, don't forget to **star** this repository!
