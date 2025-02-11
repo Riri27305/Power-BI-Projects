@@ -29,10 +29,6 @@ This project is open-source and free to use for learning and reference purposes.
 
 ---
 
-Here's the updated README with fewer emojis:
-
----
-
 # Data Visualization Internship – Forage x TATA  
 
 ## Overview  
