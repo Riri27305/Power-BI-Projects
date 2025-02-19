@@ -2,7 +2,7 @@
 
 # Car Sales Dashboard - Power BI
 
-This repository contains a **Power BI dashboard** that provides insights into **car sales trends**, including revenue, units sold, and customer demographics. The dashboard enables interactive analysis and helps businesses make data-driven decisions.
+This repository contains an interactive and powerful **Power BI dashboard** that provides insights into **car sales trends**, including revenue, units sold, and customer demographics. The dashboard enables interactive analysis and helps businesses make data-driven decisions.
 
 ## Features
 - **Sales Performance Overview** – Track total revenue and units sold.
